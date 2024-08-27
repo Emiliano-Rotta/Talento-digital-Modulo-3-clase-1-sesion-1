@@ -66,3 +66,29 @@
 // var variableVar = "esto es var"
 // let variableLet = "esto es let"
 
+//Convertir variables
+
+//convertir de string a numero
+// let num = parseInt("123")
+//convertir de string a numero decimal
+// let num = parseFloat("123.23")
+//convertir de string a numero entero o decimal
+// let num = Number("123.2")
+//convertir de string a numero con Unary plus
+// let num = +"123"
+
+//convertir de numero a string 
+// let str = String(123)
+
+//Fecha a un numero 
+// let fecha = new Date()
+// let num = fecha.getTime()
+
+//Booleano a numero
+// let num = Number(true) //1
+// let num = Number(false) //0
+
+//Numero a Booleano
+// let num = Boolean(1) //cualquier numero que no sea cero es true
+// let num = Boolean(0) //0
+// console.log(num)
