@@ -34,3 +34,4 @@
 // alert(objetos.nombre + " tiene " + array[1] + " " + array[0] )
 //interpolacion
 // alert(`${objetos.nombre} tiene ${array[1]} ${array[0]}`)
+
