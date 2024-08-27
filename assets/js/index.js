@@ -35,3 +35,34 @@
 //interpolacion
 // alert(`${objetos.nombre} tiene ${array[1]} ${array[0]}`)
 
+
+//variables.. var let const
+
+//var y let pueden cambiar
+//const no puede
+
+// const nombre = "Brandon"
+// console.log(nombre)
+// nombre = "David"
+// console.log(nombre)
+
+
+// Diferencias entre var y let
+// const variable = () => {
+//     if(true){
+//         var varVariable = "Esto es var"
+//         let letVariable = "Esto es let"
+//     }
+//     console.log(varVariable)
+//     console.log(letVariable)
+// }
+// variable()
+
+// var variableVar = undefined
+
+// console.log(variableVar)
+// console.log(variableLet)
+
+// var variableVar = "esto es var"
+// let variableLet = "esto es let"
+
