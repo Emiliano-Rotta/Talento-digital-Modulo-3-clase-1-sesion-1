@@ -1,4 +1,7 @@
 // Instrucciones:
+
+//UNO PUEDE COMPARTIR PANTALLA Y LO HACEN ENTRE TODOS 
+
 // Declara una variable strNumber con el valor "1234".
 // Declara una variable num con el valor 2024.
 // Declara una variable dateStr con el valor "2024-12-31".
